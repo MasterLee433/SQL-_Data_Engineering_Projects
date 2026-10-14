@@ -1,1 +1,1 @@
-SELECT CAST (123 AS varchar);
+SELECT CAST (1234 AS varchar);
